@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/bruno/AndroidStudioProjects/DanceMap/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/bruno/AndroidStudioProjects/DanceMap/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_16e57dd90104e032cecac06aa73d34eaaae0051d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bruno/.android/build-cache/49e539349289669f7d72d9ebc621983dd98d2fed/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2c2f1b3f82c027e98f56bb0154de0acbcce42e6d">
+        <dex dex="/home/bruno/AndroidStudioProjects/DanceMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_43856b50783c26b9482d9778b371262892dd8968/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bruno/.android/build-cache/37dd9c5aaf73d44f9fa45ef637e3318700ff8674/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e1625e48a836779b5fa141d22e5d05563aaccc9a">
+        <dex dex="/home/bruno/AndroidStudioProjects/DanceMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_969ad11fc0501557b2b5b53cbdf6dde4a0ca6b6d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bruno/.android/build-cache/78aedad4eee78295754dcc85dd100fcc84f78abb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7c24e2e9773fb498e390ce973db382c3ddcf748e">
+        <dex dex="/home/bruno/AndroidStudioProjects/DanceMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5b83676d78ebcc148e33bc5d08e04982bd53e20f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bruno/.android/build-cache/e35c14436e3c89a280739f7e9365f3e50f5220cd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fc3036436defd3070337b7191c50a136ebca7f8f">
+        <dex dex="/home/bruno/AndroidStudioProjects/DanceMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ec4bf420a5e5d0d4b2397eac8f4bc137973c3ba5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bruno/.android/build-cache/9e54a6bfdbdecb93b2a8393e8a17065bf22eaf1a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="56d68d1174b9c1e368017a850b62b12429f39757">
+        <dex dex="/home/bruno/AndroidStudioProjects/DanceMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1eaee4e44bcdee784072b758085401d881a82934/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bruno/.android/build-cache/1b9f4e6fa5d5468b78b8de09d390d7c063d7d434/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a25b0b5aec89681b95d32780ad7904c1e1e4c679">
+        <dex dex="/home/bruno/AndroidStudioProjects/DanceMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6befb3dfad6c3839982e1b15ebeb3d2691e154e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bruno/.android/build-cache/794ca3dfd384b9dbca820e1b132b972a712d15ec/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f47f4d5bdfd7d7bf330945b8a7ccce4ab437a710">
+        <dex dex="/home/bruno/AndroidStudioProjects/DanceMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4f216f832bb33ebb364eb9a6cc050820e0a58877/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bruno/.android/build-cache/106047beffd5d00b8f09a80a9904dd1a8658a772/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="63b03eaa1aa9b9431c7638841175f9842dcbf274">
+        <dex dex="/home/bruno/AndroidStudioProjects/DanceMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_40a5236bc83a2688edf2a4ed2efe0592de3f28b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bruno/.android/build-cache/387745bc4f82804414df0f16563dd8491706a1ff/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2c379c235d7983201bb83edfc3c60bb0dafb5805">
+        <dex dex="/home/bruno/AndroidStudioProjects/DanceMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_53c031a8a97d95f81faac1aadab48bbe254fb742/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bruno/.android/build-cache/8c006618da29ed5f7e40124ce37f09b56b36f05f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bfba7cf662f7e3e2cfeb92226c6b84c08e590225">
+        <dex dex="/home/bruno/AndroidStudioProjects/DanceMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9b3bfafe6ecd82c25418b0a78e4e87ff8f41fd4e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bruno/.android/build-cache/2fea605579a825ac074343c19987bd54ad1e2cd2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="76ea35b41786082af23db898ca9e0fc07cc71fb9">
+        <dex dex="/home/bruno/AndroidStudioProjects/DanceMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f1023cada81494a56840e25cc83aa5681751bd7d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bruno/.android/build-cache/a14c4bef47ea9770860171c8531526c43d902788/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0bffdc0bd4f7ca0e27c5bfeef39569f8da00aa26">
+        <dex dex="/home/bruno/AndroidStudioProjects/DanceMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a07e79cc903dcf7872919dc27c107bad316ffbd9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bruno/.android/build-cache/769961fe49d04925bd05a12cdac2cfe4d52eaf32/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c175c3009577fad8b433703f5d7ac2dc21d3871f">
+        <dex dex="/home/bruno/AndroidStudioProjects/DanceMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7fd2699495695621a9b76a22c0cca3d9f65173fe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bruno/.android/build-cache/2fd1b880bc15b248ce79a0c81e62b8640bd952d8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="43e9789bd3240271265ab30ce1be9f224843f5a8">
+        <dex dex="/home/bruno/AndroidStudioProjects/DanceMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_680b7d80de9332ddb7b27cdaeed4238b85844b8c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bruno/.android/build-cache/57bf4ab62c1a7be5b21e8c09b2695ea3af65de58/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dd282bdeaa904c59d77e57dedd7e0a241c9b679d">
+        <dex dex="/home/bruno/AndroidStudioProjects/DanceMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7ab5fcae567b915c0fee112510cfd6114ef50775/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bruno/.android/build-cache/2dd237fafdbd69f34fbc4c8c5b2c5d3505a55353/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="02b91f8efa91dcdf5c555ee24b7f006f02cd0f8b">
+        <dex dex="/home/bruno/AndroidStudioProjects/DanceMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_999f68fbbe11503f1e47a7622c2e806844b2a898/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bruno/.android/build-cache/8299e27aff6b5b294d4a83a6fd2254b30e8db5ec/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="af13a350b71b437ebf4be335d02a8f785c39b111">
+        <dex dex="/home/bruno/AndroidStudioProjects/DanceMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_36e52024a46a5c3ace401c9df74598761fe8616a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bruno/.android/build-cache/b5851481ff49d642d527fc3c8d9569fe877756c2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c8bf878c09bf0df6ae76eb6c2df38c6a186b38b7">
+        <dex dex="/home/bruno/AndroidStudioProjects/DanceMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c86d777a6dfbedfad8fd44a4a2878e60aa48d0f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bruno/.android/build-cache/a3b3327617a316a15f26e14cd85fa8ef3c4ba49e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a5d52089bf4d31537232bb6bcb70cee817d8a374">
+        <dex dex="/home/bruno/AndroidStudioProjects/DanceMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1a421ddf5bac36afdb072f8bb9558672269bc30e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bruno/.android/build-cache/94f5f397573d2d5da6584f1074814a483d92da49/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ffd0ddf5e57b4d60c4a3fbcd38fa20349a0cebd1">
+        <dex dex="/home/bruno/AndroidStudioProjects/DanceMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_517b5d63c5ec7dfec562fcac85f9ba7149d0eaf8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bruno/.android/build-cache/06b29378857ee565e4c1254a7d1aac4afebc28d5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f5ff5e3811e8c9485fd27f9052ae4d4d23a22d9d">
+        <dex dex="/home/bruno/AndroidStudioProjects/DanceMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0cbc527a98fddf0726bec0f596276350c63253b2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bruno/.android/build-cache/46ecbd043f40041ab975ed55de866d62430a8aba/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="34c23b5894b4f24d566bfc33e0e25462c6436b78">
+        <dex dex="/home/bruno/AndroidStudioProjects/DanceMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9d809980ddee4d0f35fe68527c5123a76ca74032/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bruno/.android/build-cache/bef004574759213a4b10c14abe4da767afc345bd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e5b429c146094a612134910688d169ec08deeefb">
+        <dex dex="/home/bruno/AndroidStudioProjects/DanceMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dbe02c29ce754310f1ca5d5b6ceb723f0a59cda7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bruno/.android/build-cache/369430954bd16966b941bee1558e85749b6168b3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f15e20dd7bcde7c688cfda44d0c8320a5c1c24b8">
+        <dex dex="/home/bruno/AndroidStudioProjects/DanceMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_684e9042f4c590c89ab9607af246168866b7e2b2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bruno/.android/build-cache/9184239a1df272bdce51363008ec9f9051d90cb4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="416fb9ee2fd6e7af0bba04b01d90cb475b1e2074">
+        <dex dex="/home/bruno/AndroidStudioProjects/DanceMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_582ceac41edae203f1c41b41d3d4de91d338b8a1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bruno/.android/build-cache/537f990b5ea8ed81ebda28f5bf1b81d17d487fbe/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9be5e957849eb82ad9addf9bdb2896de8bf5654b">
+        <dex dex="/home/bruno/AndroidStudioProjects/DanceMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a6947b090c15145e1343d59bd69bf1d5a06b71eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bruno/.android/build-cache/ab99645eeb44c76b363c1fc895494955eb764cd2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6b3430725095bd46b785e97bd34240826c27b4db">
+        <dex dex="/home/bruno/AndroidStudioProjects/DanceMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b308dafe9e966a6241fce9ea510fe142c4b89260/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bruno/.android/build-cache/fc34732b22714b1936c6093223b015992b8fb448/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4b685077cdb08cf7ae8b61afd1fe910e47d91b9a">
+        <dex dex="/home/bruno/AndroidStudioProjects/DanceMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8a621aa9e62cd8f438a92c2d3fbcd4b99c70bc64/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bruno/.android/build-cache/0462b96a9aee7b61a1e31f3ff95b4729da75e127/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="057fb316bed8467398333f30926c2d5506e275b2">
+        <dex dex="/home/bruno/AndroidStudioProjects/DanceMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_52e81d9b2ddfa6948e06054c307e8298eb3d2a7f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bruno/.android/build-cache/7a36b82b844e75726225cf8b4c4f2ab41624539a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="eea424e61a0c85b93a0e477565314a58136abaea">
+        <dex dex="/home/bruno/AndroidStudioProjects/DanceMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d87e0f6eb27d742bbd4fe0071eb84d2287490663/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bruno/.android/build-cache/daf2ee766acaca83d585710dee02480e2bb3fae4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="41f47bbcd281fdb1e42e220220ab3bfa1da591e0">
+        <dex dex="/home/bruno/AndroidStudioProjects/DanceMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ecb0d8fc56b1d20c582fa0d004ef2bfc5c0b54c4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bruno/.android/build-cache/1ede58f6b50512603500b15a5d8a8a6f551c2354/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c1b91bc7e480ab100d0397b16c93732e26fd10eb">
+        <dex dex="/home/bruno/AndroidStudioProjects/DanceMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_80ed4f8fadac9c2a6c3fd6db55057d31a2ff0bdd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bruno/.android/build-cache/32c3dabf989133a541b1a413fdb162ee2a5cca9e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e7f890dd2539b7f2582f450f0721e2dea6ae510c">
+        <dex dex="/home/bruno/AndroidStudioProjects/DanceMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_35495aa6e30e373e735f873c17bf48579be3f112/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bruno/.android/build-cache/583f6dfde8362f07d568702e52401c6647d07a22/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="377c5f26ebf67f3fa6ef2f663a58cac7ce647dde">
+        <dex dex="/home/bruno/AndroidStudioProjects/DanceMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_975544f3ca4e390b088e54da9f723bba74a60596/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bruno/.android/build-cache/b9a604065efd76151925d588edbf4aa75c2bcecf/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3ac08c35419ab7cf9146969de471768dbe502f0f">
+        <dex dex="/home/bruno/AndroidStudioProjects/DanceMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_01abedb7818443c967fd15837772fca224dbf84b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bruno/.android/build-cache/bf3db3a0e3f4d252c156e07480d6372e838d6348/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1b12397bc9f342b29d9e9108978828f99a6da579">
+        <dex dex="/home/bruno/AndroidStudioProjects/DanceMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8a15df5cb1210db9c4b1dca55bd30ff0199445a7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bruno/.android/build-cache/dfdbb9d191c62a51ec18fff1b7d273e5335647e4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c6aa915c08cfd82780c10d4b957018bf819a48e2">
+        <dex dex="/home/bruno/AndroidStudioProjects/DanceMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_63e49b726be6eed21b35211aa41540a4f4cd1f8e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bruno/.android/build-cache/1688c3cf02f7bea7054bd359ad15da543060569f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5594a368622908d89c47d9a391aa2724fe046c35">
+        <dex dex="/home/bruno/AndroidStudioProjects/DanceMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_698b2761a15616de376698759e56f820d2d6638a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bruno/.android/build-cache/74a040324c3ebc4e34bbaed60746de27c0b2a2e8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c6706cc7c8c3093560edd55d322218afe7798aa9">
+        <dex dex="/home/bruno/AndroidStudioProjects/DanceMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_519ef47eb12b16233020a31faff05cf878bc922c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bruno/.android/build-cache/a7e509b7e42b7ee3701bbd3ed74526aa3cd730c8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b5b6af36bacf1d812cd3dc45f9dcab9ea471ed91">
+        <dex dex="/home/bruno/AndroidStudioProjects/DanceMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2f031d64ad46ad6207f11dcf7ff4c46edeed0cb2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bruno/.android/build-cache/01e8442f0aa5ba2cdef6966d7a968575cdd81bf4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8544f739799dd15db63927073a21312864ab0bfd">
+        <dex dex="/home/bruno/AndroidStudioProjects/DanceMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_944acffb6b4b03e578331f9c94a651583bfe885d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bruno/.android/build-cache/59145c736563bfdd388f5e364714adea03b16e1a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ed87ccdcb70c17d71ba4e6e4ac16afa62d3c49fb">
+        <dex dex="/home/bruno/AndroidStudioProjects/DanceMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_200cafc45a612d9c06c70c3bb09829efc99cb264/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bruno/.android/build-cache/0b3f9fd744e79646da8f5a44d7f3af224bbd5016/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="576570f46ff6ccc69a984af9e55ddd58d9549270">
+        <dex dex="/home/bruno/AndroidStudioProjects/DanceMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b5b48b33f286609928a0ad29f016a1bff228b03e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bruno/.android/build-cache/9c7e51aaa672696da43b8e3ec649547fbb05f897/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d8942ee348aaa9341f08f7e2437063893fe27542">
+        <dex dex="/home/bruno/AndroidStudioProjects/DanceMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4e0ecfe338930f4dc5ea2343884b1fa3aca09036/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bruno/.android/build-cache/84ede50b251cb81108565da1a547378a8f94ea4b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2c73e2a93e00abd240e495c1e62217e53904a3f3">
+        <dex dex="/home/bruno/AndroidStudioProjects/DanceMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e37a4d37faf03f19b30cf5b082e82cb8044cbc75/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bruno/.android/build-cache/e6d0e04458551f925835aa4739d9f8d63b09d904/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2b12b18c5518021cc71577c83d1290f8ddaa3c98">
+        <dex dex="/home/bruno/AndroidStudioProjects/DanceMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6df71febd0914cb5d2e6fc83898d54c75e3ffe38/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bruno/AndroidStudioProjects/DanceMap/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d53daea20a3a4c4ec5e4b092f9c7b47afeb1237f">
+        <dex dex="/home/bruno/AndroidStudioProjects/DanceMap/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_595f1f183ed89f12ea1018832677601e5b1efc92/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bruno/.android/build-cache/6b2a523c792dc6b3fadcc9b93c765b0b3b83f525/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dae0d68af4c87df40eca67069861e53b7cefaaa0">
+        <dex dex="/home/bruno/AndroidStudioProjects/DanceMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_46ccde738ca4c064b105eaf281ee133e91fe5d72/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bruno/.android/build-cache/20534cf16c5759122c14bb938df1809d54449b3d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c72b1515efbd8ad652e2d63582c8234a979b1e53">
+        <dex dex="/home/bruno/AndroidStudioProjects/DanceMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fe72455052c2e47d019534bec22d35560014bc56/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bruno/.android/build-cache/9dfe0d434b35200913f29f0c79b752ad13c5f37e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f2cb88e7e28736d44e7e643deb80c9af1c3662c8">
+        <dex dex="/home/bruno/AndroidStudioProjects/DanceMap/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_551da5445cf89a107e850a0142de7bb7703f3ce1/classes.dex" />
+    </item>
+
+</items>
